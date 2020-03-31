@@ -30,3 +30,17 @@ p {
 #haven:hover{
   background-color: rgba(256, 250, 250, 0.3);
 }
+
+#real {
+  
+  text-decoration: none;
+  position: absolute;
+  top: 760px;
+  left: 770px;
+  width: 50px;
+  height: 20px;
+}
+
+#real:hover{
+  background-color: rgba(256, 250, 250, 0.3);
+}

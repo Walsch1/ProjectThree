@@ -1,0 +1,32 @@
+p {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 20px;
+}
+
+#first a{
+  border: none;
+  border-color: transparent;
+}
+
+#pic img{
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 400px;
+  padding-bottom: 25px;
+
+}
+
+#haven {
+
+  text-decoration: none;
+  position: absolute;
+  left: 75px;
+  top: 660px;
+  width: 45px;
+  height: 15px;
+}
+
+#haven:hover{
+  background-color: rgba(256, 250, 250, 0.3);
+}

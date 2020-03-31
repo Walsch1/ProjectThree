@@ -1,0 +1,46 @@
+body{
+  background-color: 	#808080;
+  color: white;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#pic img{
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 400px;
+  padding-bottom: 25px;
+}
+
+.intro{
+  color: 	#B22222;
+  text-align: center;
+}
+
+.intro h3{
+  color: white;
+  margin-bottom: 50px;
+}
+
+.start {
+
+  font-size: 20px;
+}
+
+#first {
+  text-align: center;
+
+  }
+
+#first a{
+  border: solid 2px white;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-right: 20px;
+
+}

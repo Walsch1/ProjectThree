@@ -22,7 +22,7 @@ p {
   text-decoration: none;
   position: absolute;
   left: 75px;
-  top: 660px;
+  top: 710px;
   width: 45px;
   height: 15px;
 }
@@ -32,11 +32,11 @@ p {
 }
 
 #real {
-  
+
   text-decoration: none;
   position: absolute;
-  top: 760px;
-  left: 770px;
+  top: 800px;
+  left: 700px;
   width: 50px;
   height: 20px;
 }

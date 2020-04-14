@@ -1,0 +1,6 @@
+#hollywood img{
+  width: 100%;
+  max-width: 1000px;
+  box-sizing: border-box;
+  padding-bottom: 30px;
+}

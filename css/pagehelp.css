@@ -22,7 +22,7 @@ p {
   left: 60px;
   top: 710px;
   width: 70px;
-  height: 50px;
+  height: 60px;
 }
 
 #haven:hover{
@@ -33,10 +33,10 @@ p {
 
   text-decoration: none;
   position: absolute;
-  top: 810px;
+  top: 800px;
   left: 690px;
   width: 70px;
-  height: 50px;
+  height: 60px;
 }
 
 #real:hover{

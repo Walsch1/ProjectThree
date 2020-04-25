@@ -1,0 +1,40 @@
+
+#pic5 img{
+  width: 100%;
+  max-width: 1000px;
+  box-sizing: border-box;
+  padding-bottom: 50px;
+}
+
+.section {
+  display: none;
+}
+
+.section#option1,
+.section.show {
+  display: block
+}
+
+button {
+  position: relative;
+  font-size: 15px;
+  margin-bottom: 15px;
+
+}
+
+button.hide {
+  display: none;
+
+}
+
+p {
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+
+body.blue {
+  background: blue;
+  color: white;
+  font-size: 90px;
+}
